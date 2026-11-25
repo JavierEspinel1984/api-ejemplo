@@ -1,0 +1,8 @@
+{
+  "name": "api-ejemplo",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "bun run server.ts",
+    "dev": "bun --watch server.ts"
+  }
+}
